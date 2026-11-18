@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function Success() {return <main className="container section"><div className="card form-wrap narrow"><span className="emoji" aria-hidden="true">💌</span><h1 style={{fontSize:"2.5rem"}}>Thanks for getting in touch!</h1><p>If registration was successful, we'll send an email asking you to confirm your address. Nicole will then review your enquiry.</p><p>If you've already registered, please use your existing account.</p><Link className="btn" href="/login">Go to parent login</Link></div></main>;}

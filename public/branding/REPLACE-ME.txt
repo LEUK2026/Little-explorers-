@@ -1,0 +1,10 @@
+ADD YOUR BRAND ASSETS HERE
+==========================
+
+1. Replace logo.svg with your real logo (ideally a transparent-background SVG).
+2. The website header uses /branding/logo.svg via src/components/SiteHeader.tsx.
+3. For a PNG logo, save it as logo.png and change that one header path to /branding/logo.png.
+4. Replace src/app/icon.svg with your square brand icon (favicon).
+5. The theme colours and page styling live in src/app/globals.css.
+
+The included SVG files are intentionally simple placeholders; they're not your final branding.

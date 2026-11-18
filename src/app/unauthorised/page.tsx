@@ -1,0 +1,1 @@
+export default function NoAccess(){return <main className="container section"><div className="card form-wrap narrow"><h1 style={{fontSize:"2.5rem"}}>Access restricted</h1><p>This account does not have permission to open that area.</p></div></main>;}

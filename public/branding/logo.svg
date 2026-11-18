@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title">
+  <title id="title">Little Explorers placeholder logo</title>
+  <rect width="240" height="240" rx="60" fill="#e3eee6" />
+  <circle cx="120" cy="120" r="76" fill="#fefcf5" />
+  <path d="M54 156q66-82 132 0" fill="none" stroke="#75957b" stroke-width="16" stroke-linecap="round" />
+  <circle cx="102" cy="98" r="14" fill="#c59d64"/><circle cx="139" cy="98" r="14" fill="#c59d64"/>
+  <path d="M94 130q25 22 51 0" fill="none" stroke="#75957b" stroke-width="9" stroke-linecap="round"/>
+  <path d="M119 22v33M40 59l24 21M201 60l-23 21" stroke="#bfa178" stroke-width="7" stroke-linecap="round"/>
+</svg>

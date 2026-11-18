@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function NotFound(){return <main className="container section"><div className="card form-wrap narrow"><span className="emoji" aria-hidden="true">🧭</span><h1 style={{fontSize:"2.5rem"}}>We couldn't find that page.</h1><p>Every little explorer gets lost sometimes. Let's head back to the beginning.</p><Link href="/" className="btn">Back to Little Explorers</Link></div></main>;}

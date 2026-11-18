@@ -1,0 +1,15 @@
+name = "little-explorers-watchdog"
+main = "worker.ts"
+compatibility_date = "2026-11-01"
+
+[triggers]
+crons = ["*/5 * * * *"]
+
+[[d1_databases]]
+binding = "STATUS_DB"
+database_name = "little-explorers-watchdog"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+
+# Configure these secrets using wrangler secret put (NOT in this file):
+# SITE_A_URL, SITE_B_URL, HEALTH_CHECK_SECRET
+# Optional: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
